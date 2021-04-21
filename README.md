@@ -7,3 +7,4 @@ im making google home page copy to try and showcase i can
 6)Identify three ways you can include your CSS styles in a page
 7)Understand how to use classes and ids to target CSS at specific elements on the page
 8)Build a very basic form (even if it doesn’t “go” anywhere)
+you can view website live at following URL: https://gigagiorgadze.github.io/google-homepage/
